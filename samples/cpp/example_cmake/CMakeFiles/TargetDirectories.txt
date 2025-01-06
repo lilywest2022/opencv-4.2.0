@@ -1,0 +1,3 @@
+/mnt/rk3399-MAX96712/opencv-4.2.0/samples/cpp/example_cmake/CMakeFiles/opencv_example.dir
+/mnt/rk3399-MAX96712/opencv-4.2.0/samples/cpp/example_cmake/CMakeFiles/edit_cache.dir
+/mnt/rk3399-MAX96712/opencv-4.2.0/samples/cpp/example_cmake/CMakeFiles/rebuild_cache.dir
